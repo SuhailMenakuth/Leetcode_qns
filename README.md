@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
