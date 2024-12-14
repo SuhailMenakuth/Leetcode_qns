@@ -1,0 +1,24 @@
+totalFruits(arr) {
+       let l=0, r=0 ;
+    let maxLength = 0
+    let mpp = {}
+    let k =2
+    
+    while(r < arr.length){
+         mpp[arr[r]] = (mpp[arr[r]] || 0) +1;
+        
+        while(Object.keys(mpp).length >  k){
+            mpp[arr[l]]--;
+            if(mpp[arr[l]] == 0){
+                delete mpp[arr[l]]
+            }
+            l++;
+        }
+        if(Object.keys(mpp).length <= k){
+            maxLength = Math.max(maxLength , r-l+1);
+        }
+        r++
+        
+    }
+    return maxLength;
+    }
