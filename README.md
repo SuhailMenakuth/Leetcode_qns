@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -15,14 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -38,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
