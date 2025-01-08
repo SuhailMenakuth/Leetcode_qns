@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -52,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
