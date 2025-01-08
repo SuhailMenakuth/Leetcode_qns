@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
