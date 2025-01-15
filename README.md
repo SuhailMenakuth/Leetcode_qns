@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -66,4 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
