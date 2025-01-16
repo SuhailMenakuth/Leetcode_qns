@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
