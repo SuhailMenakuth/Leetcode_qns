@@ -5,14 +5,14 @@ public class Solution {
         // int remaining = n;
         int completed = 0;
         while(i <= n){
-            if (n < i){
-                break;
-            }
-            else{
+            // if (n < i){
+            //     break;
+            // }
+            // else{
                 n = n -i;
                 i++;
                 completed += 1;
-            }
+            // }
         }
         return completed;
         
