@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0014-longest-common-prefix) |
 | [0290-word-pattern](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0541-reverse-string-ii) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
