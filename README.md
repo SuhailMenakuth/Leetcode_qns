@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/1046-max-consecutive-ones-iii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/SuhailMenakuth/Leetcode_qns/tree/master/0541-reverse-string-ii) |
 ## Sorting
